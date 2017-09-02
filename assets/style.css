@@ -1,0 +1,30 @@
+
+#search-btn {
+    margin-top: 10px;
+}
+
+img.gifImg {
+    max-width: 275px;
+    max-height: 125px;
+    margin: 5px;
+}
+
+.gif-div {
+    min-height: 205px;
+    float: left;
+}
+
+p.rating {
+    text-transform: uppercase;
+    padding: 0 0 0 10px;
+}
+
+div#giphy-area {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button#search-btn {
+    font-size: 20px;
+}
+
